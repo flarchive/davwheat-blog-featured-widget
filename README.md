@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of davwheat/blog-featured-widget.** Not for installation: use [Packagist](https://packagist.org/packages/davwheat/blog-featured-widget) or the [upstream repository](https://github.com/davwheat/flarum-ext-blog-featured-widget).
 
-**0** versions archived · Latest: [`0.1.0-beta.3`](https://github.com/flarchive/davwheat-blog-featured-widget/tree/archive/v0.1.0-beta.3) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`0.1.0-beta.3`](https://github.com/flarchive/davwheat-blog-featured-widget/tree/archive/v0.1.0-beta.3) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2022-05-30 | `^1.2.0` | [Browse](https://github.com/flarchive/davwheat-blog-featured-widget/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.2` | 2022-05-30 | `^1.2.0` | [Browse](https://github.com/flarchive/davwheat-blog-featured-widget/tree/archive/v0.1.0-beta.2) |
+| `0.1.0-beta.3` | 2022-06-04 | `^1.2.0` | [Browse](https://github.com/flarchive/davwheat-blog-featured-widget/tree/archive/v0.1.0-beta.3) |
 
 Catalog entry: [packages/davwheat-blog-featured-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/davwheat-blog-featured-widget.json)
 
